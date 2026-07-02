@@ -1,0 +1,2 @@
+stre = "qcddddd"
+
